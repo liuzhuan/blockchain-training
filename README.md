@@ -23,6 +23,7 @@
 ## Website
 - [Bitcoin.org](https://bitcoin.org/en/)
 - [blockchain.info](https://blockchain.info/home)
+- [Ethereum Project 以太坊](https://ethereum.org/)
 
 ## Tutorials
 - [比特币和数字货币技术 | coursera.org](https://www.coursera.org/learn/cryptocurrency) - Arvind Narayanan
@@ -30,3 +31,4 @@
 - [001 - 到底什么是区块链 - 上 | youku](http://v.youku.com/v_show/id_XMTczODc3NjU4MA==.html) - 42:42
 - [002 - 到底什么是区块链 - 下 | youku](http://v.youku.com/v_show/id_XMTc0MDkzNDU5Mg==.html) - 38:32
 - [明说(05)：以太坊核心概念介绍 | youku](http://v.youku.com/v_show/id_XMTg0MTcyNDU4NA==.html) - 11:59
+- [EthCast.com](http://ethcast.com/) - 汪晓明（蓝莲花）
