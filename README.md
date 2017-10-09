@@ -9,6 +9,8 @@
 
 - 比特币
   - [介绍](./bitcoin/intro/README.md)
+- 区块链
+  - [介绍](./blockchain/intro/README.md)
 
 ## Books
 - [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto, 2009/05/24
@@ -24,3 +26,7 @@
 
 ## Tutorials
 - [比特币和数字货币技术 | coursera.org](https://www.coursera.org/learn/cryptocurrency) - Arvind Narayanan
+- [区块链技术的自频道 | youku](http://i.youku.com/i/UMzUxMzkxMDc2/videos)
+- [001 - 到底什么是区块链 - 上 | youku](http://v.youku.com/v_show/id_XMTczODc3NjU4MA==.html) - 42:42
+- [002 - 到底什么是区块链 - 下 | youku](http://v.youku.com/v_show/id_XMTc0MDkzNDU5Mg==.html) - 38:32
+- [明说(05)：以太坊核心概念介绍 | youku](http://v.youku.com/v_show/id_XMTg0MTcyNDU4NA==.html) - 11:59
